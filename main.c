@@ -1,3 +1,7 @@
+//Project Name: Sample Calculator
+//Created By: MD Rakibul Islam
+
+
 #include <stdio.h>
 
 int main()
